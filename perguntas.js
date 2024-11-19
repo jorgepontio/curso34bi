@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'POKÉMON',
+    'Quais são os trêS iniciais de kanto?',
+    'Charmander,Bulbasauro e Squirtle '
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'POKÉMON',
+    'Qual é o trio lendário da terceira geração?',
+    'Groudon, Kyogre e Rayquaza'
 )
 
 criaCartao(
