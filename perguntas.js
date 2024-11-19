@@ -1,6 +1,6 @@
 criaCartao(
     'POKÉMON',
-    'Quais são os trêS iniciais de kanto?',
+    'Quais são os três iniciais de kanto?',
     'Charmander,Bulbasauro e Squirtle '
 )
 
