@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'POKÉMON',
+    'Quais são os protagonistas de pokémon emerald ?',
+    'Brendan e May'
 )
